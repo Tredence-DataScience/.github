@@ -1,11 +1,8 @@
 ![Tredence Inc : Data Science Team](https://github.com/Tredence-DataScience/.github/blob/main/resources/img/title.jpg)
 # Welcome to Data Science Community at Tredence Inc #
 
-- Background
-    - We are trying to streamline how we build code and how we build models.
-    - The aim is to build a central place where we code and how we maintain our assets.
-
-- Quick setup
+- Information
+    - Only accessible to organizational employees
     - Contact Data Science team over MS teams to get invitiation to get added to this organization
     - You will get an invitiation from the administrators to get added to this organization.
     - The invitation will be sent to your tredence.com email id
